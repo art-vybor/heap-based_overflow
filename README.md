@@ -13,3 +13,5 @@ http://www.win.tue.nl/~aeb/linux/hh/hh-11.html#ss11.5 --- почему unlink н
 http://www.youtube.com/watch?v=VLnhV1T5Ng4 - конфа
 https://www.blackhat.com/presentations/bh-usa-07/Ferguson/Whitepaper/bh-usa-07-ferguson-WP.pdf - текст с конфы
 http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html - пруф, на испанца от 2013, хороший обзор литературы.
+https://gbmaster.wordpress.com/2014/08/11/x86-exploitation-101-heap-overflows-unlink-me-would-you-please/#more-286 - няшная статья, описана история, хорошо описаны структуры
+https://gbmaster.wordpress.com/2014/08/24/x86-exploitation-101-this-is-the-first-witchy-house/ - почему house of mind не работает.
