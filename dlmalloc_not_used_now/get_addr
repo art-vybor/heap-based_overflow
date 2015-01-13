@@ -1,0 +1,2 @@
+objdump -R vulnerable | grep free
+ltrace ./vulnerable 2>&1 

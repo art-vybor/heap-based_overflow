@@ -1,0 +1,2 @@
+cc heap1.c -o heap1 -std=c99
+cc exploit.c -o exploit

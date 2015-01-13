@@ -1,0 +1,2 @@
+cc vulnerable.c -o vulnerable
+cc exploit.c -o exploit
